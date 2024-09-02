@@ -1,0 +1,4 @@
+ERROR in action number 1
+of Create Event for object secretmenu:
+Variable <unknown_object>.g(100087, -2147483648) not set before reading it.
+ at gml_Object_secretmenu_Create_0 (line 27) - g++
