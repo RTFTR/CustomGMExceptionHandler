@@ -17,7 +17,7 @@ This project was compiled in 2024.6.2.162 IDE, 2024.6.0.205 Runtime.
 Somewhat old versions may work, But very old ones will not.
 
 ## Credits
-###Mostly from example project
+### Mostly from example project
 
 Static sprites from Undertale
 Glitching effect by BktGlitch
