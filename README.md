@@ -1,3 +1,4 @@
+<h1 align="center">![customize](https://github.com/user-attachments/assets/1edbc5a4-6cd9-407b-8a4d-f8ef8b09750f)</h1>
 <h1 align="center">CustomGMExceptionHandler</h1>
 
 **CustomGMExceptionHandler** is a tool to make a custom Gamemaker games' exception handler system.
